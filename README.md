@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Artem (@gencurrent)
-- 👀 I’m interested in FullStack solutions in financial technologies and B2C secctor
-- 🌱 I’m currently learning Binance API
+### Brief
+- 👋 Hi, I’m Artem Bulatov (@gencurrent)
+- 👀 I’m interested in Full Stack solutions to make this world better
+- 🌱 I’m currently learning GraphQL API
 - 💞️ I’m looking to collaborate on any Python / JS / TS project
-- 📫 How to reach me: gencurrent@gmail.com
+### Contact me
+Personal website: [art-bulatov.com](https://art-bulatov.com)  
+Instagram: [instagram.com/art_bulatov](https://wwww.instagram.com/art_bulatov)  
+Email: gencurrent@gmail.com
+Phone: +7(999)804-46-53 
+
 
 <!---
 gencurrent/gencurrent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
