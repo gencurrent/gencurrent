@@ -6,7 +6,7 @@
 ### Contact me
 Personal website: [art-bulatov.com](https://art-bulatov.com)  
 Instagram: [instagram.com/art_bulatov](https://wwww.instagram.com/art_bulatov)  
-Email: gencurrent@gmail.com 
+Email: gencurrent@gmail.com   
 Phone: +7(999)804-46-53 
 
 
