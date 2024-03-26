@@ -8,7 +8,7 @@ Some bulletpoints about me:
   - A Python / JS web application development
   - A ML application development
 ### Contact me
-Personal website: [hrstack.net](https://hrstack.net)  
+Personal website HR application I'm working on: [https://hrstack.net](https://hrstack.net)  
 Telegram: [https://t.me/art_bulatov](https://t.me/art_bulatov)  
 Email: gencurrent@gmail.com   
 
