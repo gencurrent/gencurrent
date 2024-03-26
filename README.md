@@ -1,11 +1,15 @@
 ### Brief
-- 👋 Hi, I’m Artem Bulatov (@gencurrent)
-- 👀 I’m interested in Full Stack solutions to make this world better
-- 🌱 I’m currently learning GraphQL API
-- 💞️ I’m looking to collaborate on any Python / JS / TS project
+Welcome to my page, dear visitor.  
+I am Artem Bulatov (@gencurrent).  
+Some bulletpoints about me:
+- I’m **interested in** Full Stack solutions to make this world better
+- I’m currently **learning** Artificial Intelligence
+- I’m **looking to collaborate on**:
+  - A Python / JS web application development
+  - A ML application development
 ### Contact me
-Personal website: [art-bulatov.com](https://art-bulatov.com)  
-Instagram: [instagram.com/art_bulatov](https://wwww.instagram.com/art_bulatov)  
+Personal website: [hrstack.net](https://hrstack.net)  
+Telegram: [https://t.me/art_bulatov](https://t.me/art_bulatov)  
 Email: gencurrent@gmail.com   
 
 
