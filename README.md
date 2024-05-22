@@ -1,17 +1,21 @@
-### Brief
-Welcome to my page, dear visitor.  
-I am Artem Bulatov (@gencurrent).  
-Some bulletpoints about me:
-- I’m **interested in** Full Stack solutions to make this world better
-- I’m currently **learning** Artificial Intelligence
-- I’m **looking to collaborate on**:
-  - A Python / JS web application development
-  - A ML application development
-### Contact me
-Personal website HR application I'm working on: [https://hrstack.net](https://hrstack.net)  
-Telegram: [https://t.me/art_bulatov](https://t.me/art_bulatov)  
-Email: gencurrent@gmail.com   
+### Brief  
 
+Python / React.js and ex-C++ engineer with over 6 years of experience in different business domains:
+- Cryptocurrency / DEX;
+- Public rental services;
+- Computer vision solutions;
+- Marketing and advertising.
+Leaning into AI, mostly Machine Learning and Computer Vision areas.
+
+### Contact me  
+Telegram: [https://t.me/art_devx](https://t.me/art_devx)  
+Email: gencurrent@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/art-bulatov/](https://www.linkedin.com/in/art-bulatov/)
+
+
+#### Statistics  
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gencurrent&hide_progress=false&theme=dark)
 
 <!---
 gencurrent/gencurrent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
