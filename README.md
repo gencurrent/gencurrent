@@ -8,7 +8,7 @@ Python / React.js and ex-C++ engineer with over 6 years of experience in differe
 Leaning into AI, mostly Machine Learning and Computer Vision areas.
 
 ### Contact me  
-Telegram: [https://t.me/art_devx](https://t.me/art_devx)  
+Telegram: [https://t.me/art_bulatov](https://t.me/art_bulatov)  
 Email: gencurrent@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/art-bulatov/](https://www.linkedin.com/in/art-bulatov/)
 
