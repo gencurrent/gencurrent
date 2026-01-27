@@ -1,6 +1,7 @@
 ### Brief  
 
-Python / React.js and ex-C++ engineer with over 6 years of experience in different business domains:
+Python / React.js and ex-C++ engineer with over 8 years of experience in different business domains:
+- Product consulting / Markets analytics;
 - Cryptocurrency / DEX;
 - Public rental services;
 - Computer vision solutions;
@@ -8,9 +9,9 @@ Python / React.js and ex-C++ engineer with over 6 years of experience in differe
 Leaning into AI, mostly Machine Learning and Computer Vision areas.
 
 ### Contact me  
-Telegram: [https://t.me/art_bulatov](https://t.me/art_bulatov)  
+Telegram: [https://t.me/art_8x](https://t.me/art_8x)  
 Email: gencurrent@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/art-bulatov/](https://www.linkedin.com/in/art-bulatov/)
+LinkedIn: [https://www.linkedin.com/in/art-eightx/](https://www.linkedin.com/in/art-eightx/)
 
 
 #### Statistics  
